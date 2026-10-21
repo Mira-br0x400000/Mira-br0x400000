@@ -1,10 +1,10 @@
 <div align="center">
  
-![](https://raw.githubusercontent.com/sylviax26/sylviax26/main/profile-summary-card-output/swift/3-stats.svg) ![](https://raw.githubusercontent.com/sylviax26/sylviax26/main/profile-summary-card-output/swift/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Mira-br0x400000/Mira-br0x400000/main/profile-summary-card-output/swift/3-stats.svg) ![](https://raw.githubusercontent.com/Mira-br0x400000/Mira-br0x400000/main/profile-summary-card-output/swift/4-productive-time.svg)
 
 </div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylviax26" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mira-br0x400000" /> </div>
 
 ### Hi there 👋
 
@@ -66,6 +66,6 @@ Wakatime statistics: (only includes my github public repos)
 </div>
 
 My Github Profile Trophy's Ranking: 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sylviax26" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mira-br0x400000" /> </div>
 
 
