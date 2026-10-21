@@ -61,7 +61,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 Wakatime statistics: (only includes my github public repos)
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sylviax26&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mira-br0x400000&layout=compact&langs_count=6)
 
 </div>
 
