@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 282.4 kB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2026
+> 🏆 102 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +42,16 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Tuesday                  640 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Wednesday                643 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Thursday                 491 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Friday                   470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Saturday                 524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Sunday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Monday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Tuesday                  386 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Wednesday                374 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Thursday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Friday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Saturday                 223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Sunday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 ```
 
 
@@ -89,7 +89,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 13:50:55 UTC
+ Last Updated on 23/10/2026 13:29:59 UTC
 <!--END_SECTION:waka-->
 
 Wakatime statistics: (only includes my github public repos)
