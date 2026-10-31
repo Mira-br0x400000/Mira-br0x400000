@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mira-br0x400000" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=Mira-br0x400000" alt="GitHub contribution streak" /> </div>
 
 ### Hi there 👋
 
@@ -92,10 +92,10 @@ Typst                    1 repo              █░░░░░░░░░░�
  Last Updated on 30/10/2026 15:04:45 UTC
 <!--END_SECTION:waka-->
 
-Wakatime statistics: (only includes my github public repos)
+GitHub language statistics: (public repositories only)
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mira-br0x400000&layout=compact&langs_count=6)
+![Most used languages in public GitHub repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=Mira-br0x400000&layout=compact&langs_count=6)
 
 </div>
 
