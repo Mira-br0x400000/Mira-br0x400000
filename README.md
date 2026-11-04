@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C991%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -38,6 +42,40 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories 
  > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Tuesday                  491 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Wednesday                473 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Thursday                 218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Friday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Saturday                 379 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -51,7 +89,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2026 16:17:39 UTC
+ Last Updated on 04/11/2026 16:22:33 UTC
 <!--END_SECTION:waka-->
 
 GitHub language statistics: (public repositories only)
