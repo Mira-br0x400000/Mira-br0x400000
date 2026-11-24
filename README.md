@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 282.3 kB Used in GitHub's Storage 
+> 📦 282.4 kB Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2026
+> 🏆 112 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 48 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -79,17 +79,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Go                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Rust                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Typst                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+C++                      11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Go                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Rust                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 23/11/2026 20:17:15 UTC
+ Last Updated on 24/11/2026 19:32:47 UTC
 <!--END_SECTION:waka-->
 
 GitHub language statistics: (public repositories only)
